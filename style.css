@@ -6,11 +6,10 @@ img{
     box-shadow: none;
 }
 
-.main{
-  
+.main{ 
 padding: 10px;
   text-align: justify;
-  text-indent: 50px;
+  text-indent: 60px;
   width: fit-content;
   padding: 5px;
   margin-bottom: 1em;
