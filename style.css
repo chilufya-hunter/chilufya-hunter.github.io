@@ -56,7 +56,7 @@ ul {
   }
   
   li a:hover {
-    background-color: rgb(175, 233, 223);
+    background-color: rgb(150, 204, 195);
   }
   .sticky {
     position: fixed;
